@@ -1,2 +1,4 @@
 # Lab_1
-this is laboratory work #1
+Алексей Волчков 
+9 группа
+ДЭиВИ
